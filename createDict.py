@@ -77,4 +77,4 @@ with open('username.txt', 'r') as un:
 		else:
 			print 'you chinese name maybe ==1 or > 4 ,please current'
 #un.close()
-
+f.close()
