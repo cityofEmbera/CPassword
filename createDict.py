@@ -1,5 +1,6 @@
 #!/usr/bin/env python
-#!-*-coding:utf8-*-
+#!-*-coding:utf8-*
+#£¡author: pyphrb
 from pinyin import PinYin
 f = open('createdict.txt', 'w')
 test = PinYin()
